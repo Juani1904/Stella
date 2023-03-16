@@ -32,9 +32,11 @@ La desigualdad en el acceso a Internet y las TIC se conoce como brecha digital .
 
 Es fenómeno puede ser observado en distintos ámbitos: a nivel generacional, entre países, entre alumnos que asisten a la misma institución, etc. 
 
-**Fig. 1.** Fuente: Internet World Stats
+
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.001.jpeg)
+
+**Fig. 1.** Fuente: Internet World Stats
 
 Observando la Fig. 1 se puede apreciar claramente la desigualdad incluso de un con- tinente entero respecto a los demás. Este continente es África, claro está, con un por- centaje de población con acceso a internet del 43,1%, frente a Norteamérica con un 93,4% o incluso Latinoamérica, con un 80,4%. 
 
@@ -44,9 +46,10 @@ Lo cierto es que no existe una única brecha digital y, por el contrario, hay mu
 
 **2.1  Tipos de brecha digital** 
 
-**Fig. 2.** Fuente: Shorthand Social
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.002.jpeg)
+
+**Fig. 2.** Fuente: Shorthand Social
 
 1. **La brecha de acceso** 
 
@@ -72,9 +75,10 @@ En vista a estas distintas formas de encarar el problema de la brecha digital, n
 
 **3  La paradoja del progreso** 
 
-**Fig. 3.** Fuente: maquinasyavancestecnicos.wordpress.com
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.003.png)
+
+**Fig. 3.** Fuente: maquinasyavancestecnicos.wordpress.com
 
 Es innegable que el avance desmedido en el ámbito científico y tecnológico es algo que impresiona. Hace tan solo 54 años, en 1969,  el hombre fue capaz de llegar a la Luna; hoy por hoy se habla de habitar marte. 
 
@@ -92,9 +96,10 @@ La cuestión es que, y por esto nos referimos a una gran paradoja, pareciera que
 
 **4  Conectividad global** 
 
-**Fig. 4.** Fuente: https://www.freeimages.com/
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.004.png)
+
+**Fig. 4.** Fuente: https://www.freeimages.com/
 
 Sin embargo, no todo es negativo, si bien gran parte de la población no puede acceder al último modelo de teléfono, o las últimas gafas de realidad virtual, son pocos los in- dividuos que no tienen en su poder un teléfono celular con acceso a internet. 
 
@@ -104,9 +109,10 @@ El problema de esto no reside en el dispositivo en sí, si no en la posibilidad 
 
 Más recientemente, incluso se ha logrado solucionar este problema en las comuni- dades rurales, donde no había infraestructura para hacer llegar la conexión a estos lu- gares, dejando a estos grandes grupos de gente sin conexión alguna. Mediante un pro- yecto conocido como Starlink, llevado adelante por la empresa SpaceX, se ha podido ofrecer un servicio de alta velocidad y baja latencia a través de todo el mundo (limitado a ciertos países por el momento), esto es posible gracias a la constelación más grande de satélites que operan en una órbita baja alrededor de la Tierra. De esta manera me- diante una antena diseñada para que cualquier persona pueda instalarla, controlada me- diante una aplicación podemos tener acceso a internet desde cualquier parte del mundo. Además, esta antena es portable, de manera que puede llevarse a cualquier lado, conec- tarla a una fuente de corriente y configurarla con la aplicación. 
 
-**Fig. 5.** Fuente: https://www.aa.com.tr/
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.005.jpeg)
+
+**Fig. 5.** Fuente: https://www.aa.com.tr/
 
 Superada la brecha digital de acceso por factores infraestructurales, queda la brecha de acceso relacionada a lo económico, ya que lógicamente este es un servicio que ofrece una empresa privada, lo cual puede ser solventado por una inversión estatal que permita a la gente que no tiene los recursos actuales para solventar el gasto, tener acceso a dicho servicio, con el objetivo que dicho servicio pueda nivelar la igualdad de oportunidades y darle la capacidad a esta persona de posteriormente, en un futuro no muy lejano, poder solventar el pago del servicio por su cuenta. 
 
@@ -116,17 +122,19 @@ Un caso de estudio de una empresa que sirva a la comunidad mediante la innovaci�
 
 Bajo el lema “Convertimos a chicos en superhéroes”, utilizando las últimas tecnologías, esta organización busca acercar soluciones innovadoras a bajos costos. “*Nos inspira- mos en las personas con las cuales colaboramos y constantemente nos planteamos desafíos globales buscando poner al alcance diversas herramientas para cumplir di- chos objetivos, generando de esta manera nuevas oportunidades*” 
 
-**Fig. 6.** Fuente: Atomic Lab
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.006.png)
+
+**Fig. 6.** Fuente: Atomic Lab
 
 Las prótesis están hechas a base de PLA, un derivado del maíz, se realizan en 24 o 48 horas, dependiendo de su tamaño, y cuestan cientos de veces menos que otras op- ciones que se ofrecen en el mercado pero resultan económicamente inalcanzables para muchas familias que las necesitan. 
 
 Por si fuera poco, a su corta edad, Gino también creó una red de “embajadores ató- micos” que se encargan de continuar esta práctica en el resto del mundo. Son colabora- dores que solo tienen que poseer una impresora 3D o acceso a ella y Atomic Lab les brinda, a través de una plataforma, las personas a las que ayudar y el archivo para rea- lizar la impresión. Así se forma una alianza que logra extender esta buena práctica glo- balmente. 
 
-**Fig. 7.** La “Manoleta”. Fuente: Atomic Lab
 
 ![](Aspose.Words.220bbc82-0c45-465c-b90c-9ffa8366665a.007.jpeg)
+
+**Fig. 7.** La “Manoleta”. Fuente: Atomic Lab
 
 Este caso es un ejemplo de como, con conocimiento y una fuerte vocación social, se pueden adaptar las nuevas tecnologías para servir a los que menos tienen y más nece- sitan. 
 
