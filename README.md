@@ -6,9 +6,12 @@ Repository where i upload all my college assigments of  TYHM subject
 
 **Un análisis de la tecnología en nuestra sociedad actual** 
 
-Juan Ignacio Luna Casabene 
+Juan Ignacio Luna Casabene, Mauricio Cassaroto, Juan Stella 
 
-Facultad de Ingeniería, Universidad Nacional de Cuyo e-mail:[ juanicei99@gmail.com ](mailto:juanicei99@gmail.com)
+Facultad de Ingeniería, Universidad Nacional de Cuyo e-mail:
+[ juanicei99@gmail.com ](mailto:juanicei99@gmail.com)
+[mauriciocasarottocad@oulook.com.ar](mailto:mauriciocasarottocad@oulook.com.ar)
+[juanstella96@gmail.com](mailto:juanstella96@gmail.com)
 
 **Abstract.**  
 
